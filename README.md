@@ -1,5 +1,7 @@
 # Email-Client-Server
 
+This project was created for academic purposes on the subject of 'Communication Networks' at the Aristotle University of Thessaloniki.
+
 A simplified distributed Email System based on the Client-Server model. This system make use of Sockets, Input/Output streams and Threads.
 
 The system consists of two different entities:
