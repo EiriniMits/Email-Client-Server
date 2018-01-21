@@ -10,7 +10,7 @@ The system consists of two different entities:
 
 2) Client programs, each of which will be able to send applications to the server by performing any of its functions.
 
-## Run in terminal
+## Run in different terminals
 ```
 Run Server: java -jar EmailServer.jar 
 Run Client: java -jar EmailClient.jar
