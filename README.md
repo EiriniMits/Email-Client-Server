@@ -12,7 +12,8 @@ The system consists of two different entities:
 
 ## Run in terminal
 ```
-java -jar EmailServer.jar & java -jar EmailClient.jar
+Run Server: java -jar EmailServer.jar 
+Run Client: java -jar EmailClient.jar
 ```
 
 ## Accounts
